@@ -120,7 +120,7 @@ To contribute:
 |  [Lucid Software](https://www.golucid.co/careers/c689ce29-c74a-48d5-854f-f9dbc82a350e/?team=Internships) | Salt Lake City, UT | Present | Must be pursuing technical degree. |
 |  [Coursera](https://jobs.lever.co/coursera/6dc86ebb-ac85-4e63-ab61-25aaee9ec45d) | Mountain View | Present | We are looking for rising juniors and seniors for our summer internship programs. The programs are highly competitive, so apply as soon as you know you are available. |
 |  [Asana](https://asana.com/jobs/university-recruiting#jobs-listings) | San Francisco, New York | Present
-|  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field
+|  [Cadre](https://cadre.com/careers/apply) | New York | Present | Graduating in December 2020 or May 2021 with a Bachelor’s degree in Computer Science, Computer Engineering, or a related field. Authorized to work in US permernently.
 |  [Twilio](https://www.twilio.com/company/jobs?department=students#open-positions) | San Francisco, Denver, Irvine, Redwood City | Present |
 |  [Redfin](https://redfin.wd1.myworkdayjobs.com/redfin_careers/job/WA---Seattle/Software-Developer-Intern---Summer-2020----Seattle--WA---San-Francisco--CA---Frisco--TX_23752) | San Francisco, Seattle | Present |
 |  [Affirm](https://jobs.lever.co/affirm/5340f1d3-cd6d-44ef-a5c6-f9def8609d02) | San Francisco | Present |
